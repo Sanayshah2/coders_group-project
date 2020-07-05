@@ -52,7 +52,7 @@ body{
         
         <title></title>
     </head>
-    <div class="container">
+    
     <div class="jumbotron">
     <body>
         
@@ -61,11 +61,11 @@ body{
 
 ?>
 <article>
-		<center>	<h2 style="font-family:cursive;color:grey">We care for you!!</h2>
-			<p style="font-family:cursive">We aim to provide a complete solution for the smart dieter.</p></center>
+		<center>	<h2 style="font-family:bookman;color:grey">We care for you!!</h2>
+			<p style="font-family:bookman">We aim to provide a complete solution for the smart dieter.</p></center>
 		</article><br><br>
                 <div class="main-wrap">
-		<center><h1 style="font-family:cursive;color:gray">FEATURES</h1></center><br><br>
+		<center><h2 style="font-family:bookman;color:red">FEATURES</h2></center><br><br>
 
 		
 
@@ -139,7 +139,7 @@ you see a help</p>
 		   
    		</div>
                 
-            </nav>
+            
 
             
             
